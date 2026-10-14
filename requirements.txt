@@ -1,0 +1,4 @@
+aiogram==3.4.1
+yt-dlp
+fastapi==0.110.0
+uvicorn==0.27.1
